@@ -4,5 +4,5 @@ jobs:
   my-job-another:
     runs-on: ubuntu-latest
     steps:
-      - name: my-step
+      - name: my-step-again
         run: echo "Hello World Again!"
